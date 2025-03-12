@@ -1,1 +1,1 @@
-MCP DEMO
+Waiting for the official remote MCP.
